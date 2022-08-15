@@ -4,7 +4,7 @@ import {Text, View} from 'react-native';
 export default class HBOMax extends Component{
   render(){
     return(
-      <View style = {{flex: 1, alignItems:'Center', justifyContent: "Center"}}>
+      <View style = {{flex: 1, alignItems:'center', justifyContent: "center"}}>
         <Text> HBO Max</Text>
       </View>
     )
